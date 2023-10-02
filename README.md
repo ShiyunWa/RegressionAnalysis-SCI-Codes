@@ -46,6 +46,6 @@ A Python web crawler program, used to crawl air quality and related pollutant da
 
 Linear regression Python program. After running, it outputs the read dataset, slope and intercept of the linear regression fitting curve, coefficient of determination of linear regression and polynomial regression to the console, and plots scatter plots of PM2.5 and NO2, training and testing results of linear and polynomial regression.
 
-LogisticRegression.py
+3. LogisticRegression.py
 
 Logistic regression Python program. After running, it outputs the read dataset, coefficient of determination of L1 and L2 regularization to the console, and plots the relationship between "Whether Polluted" and PM2.5 and NO2, the relationship between the number of iterations and the loss function, and the impact of L1 and L2 regularization on training and testing accuracy in line charts.
