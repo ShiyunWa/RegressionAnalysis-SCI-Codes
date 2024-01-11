@@ -1,7 +1,20 @@
 # RegressionAnalysis-SCI-Codes
-Open access code resources for the paper: [Regression model and method settings for air pollution status analysis based on air quality data in Beijing (2017–2021)](https://link.springer.com/article/10.1007/s41060-023-00415-7)
+Open access code resources for the paper: [Regression model and method settings for air pollution status analysis based on air quality data in Beijing (2017–2021)](https://link.springer.com/article/10.1007/s41060-023-00415-7).
 
 <div align=center><img src='fig/GIS.png' width=70%/></div>
+
+If you want to use our resources, please cite our work:
+
+```python
+@article{wa2023regression,
+  title={Regression model and method settings for air pollution status analysis based on air quality data in Beijing (2017--2021)},
+  author={Wa, Shiyun and Lu, Xinai and Wang, Minjuan},
+  journal={International Journal of Data Science and Analytics},
+  pages={1--21},
+  year={2023},
+  publisher={Springer}
+}
+```
 
 ## Datasets
 
